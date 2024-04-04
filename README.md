@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# Code Refactor - Module 1 Challenge
 
 # Descriptionm
 This was a assignment for the week 1 module for the UNC Coding Bootcamp. The assignment was to take
