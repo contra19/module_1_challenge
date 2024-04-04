@@ -1,6 +1,6 @@
 # Code Refactor - Module 1 Challenge
 
-# Descriptionm
+# Description
 This was a assignment for the week 1 module for the UNC Coding Bootcamp. The assignment was to take
 HTML and CSS code and refactor and fix the code to make a website that is optimized for search engines
 and the code follows accessibility standards.
